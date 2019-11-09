@@ -1,0 +1,148 @@
+var ADFMediaURLs='';
+var ADF_clickTag='https://track.adform.net/C/?bn=33836512;crtbwp=AAABbk_jeInCKvw4MZSyN78hfgpf1K0KC3m6Rw-VLSUd1s7CnxwhUmxlkyx12GZM81epO-d0;crtbdata=yxKBYsat1BBGCP6qmFL91NV9OFjhTiz1QncQLvhee4lEvGIUeR9A-qNjwFtI4RdA6gplfHV0khTCvzPP1CVJLlEi-y8fkiOQhresSUXf7kWbgF64uEVBXD4AR228dvPrrMpmLKLAKEwx33k9odRyGDdToxohfQ2wVrycI3RJmFgFlKTypxEwObTs1gJWpJbb_f2fpQE5V969Dxz6rvBKow1hdFrFirbOsya-emB8Ocer-oxEWmDTtVI6ukqcMwfhRp9jrOuvYPn2PgDQOerdborM2VdeVBvpdoSUc_fetYsKZSXAWn7ch_a_CKqa_pobk0goMG-VEvRgkqO6jvLnrI7JAHRPuuLEqgmrnQ15W1qHKZafMlgW6HVESDmRj-ZQy7REKk5YlVJGsDQ1QHhJI3lvoUmdvZfKIVoDp2YrExt_9HBhyRVL2KSqXz8M3rkXywBime5tCWi7lLIwKAfE1qgWVWV50RR9lKas-sC4kDhjSD3vRL6CyR8En_jhStxAHsDw7S2WlD76PjXYzENA4tXpdWmCrNCQjxeCCq03BQ0NPWNqz8pFNkL9FdGBCra14UFuhV40q881;adfibeg=0;cdata=cwHMbwXTCBRiBuju8TsxWtUtHhAxJczyDVPC1QoqI81GqUsYYMlCF9Z5JGdpi1clU_h9L2lpZnWQN5E5R6ylz6YkDMoKMEfXLGxsY8Y2xGN0eRh4ESSKnhjjrZdS0JNw0;;CREFURL=https%3a%2f%2fwww.insider.com%2fjoaquin-phoenix-joker-weight-loss-eating-disorder-symptoms2019-10';
+var ADF_ClickEvent='';
+var ADFtagID='1x';
+var ADFafbanID='33836512';
+var FlashObjectID='FlashID1x';
+var ADFDomain='https://s1.adform.net/Banners/';
+var ADFDomainCDN='https://files.adform.net/Banners/';
+var ADFVideoCDN='rtmp://s1yx966tga68s8.cloudfront.net/cfx/st/';
+var ADFVideoCDNList=['rtmp://s1yx966tga68s8.cloudfront.net/cfx/st/'];
+var ADFBanVer='513';
+var ADFBanVerBak='0';
+var ADFbu=false;
+var ADFerrTimeout = 15*24*60*60*1000;
+var ADFTemplateVersion;
+var ADFClientSiteId;
+var ADFTemplateId;
+var ADFGroupId;
+var ADFbanID='35541360';
+var ADFmembID='2402700';
+var ADFcmpgnID='1872732';
+var ADFassetID='0';
+var ADFbanPlacID='5749799';
+var ADFUnloadID='2033652297732198909';
+var ADFGeoData='160961;35999;616';
+var Adform=window.Adform;if(!Adform&&_adfq)_adfq.push(["require",["Adform"],function(adform){Adform=window.Adform=adform}]);Adform=Adform||{};
+Adform.cache="620";
+Adform.locationInfo={Country: 'Poland', Region: 'Dolnoslaskie', City: 'Smolec', Latitude: '51.07458', Longitude: '16.88546'};
+
+(function () {
+try{
+var i = Adform.ADFBannerUtils.getInstance()
+i.addBannerAttribute("1x", "bn", 33836512);
+i.addBannerAttribute("1x", "rotseqno", "2");
+i.addBannerAttribute("1x", "cookieID", "7783414823116612125");
+i.addBannerAttribute("1x", "smid", "0");
+i.addBannerAttribute("1x", "unloadID", "2033652297732198909");
+i.addBannerAttribute("1x", "height", 90);
+i.addBannerAttribute("1x", "width", 728);
+i.addBannerAttribute("1x", "pm", "1872732");
+i.addBannerAttribute("1x", "visibilityArea", [50,100,100]);
+i.addBannerAttribute("1x", "visibilityTime", [1,1,2]);
+i.addBannerAttribute("1x", "ms", "2402700");
+i.addBannerAttribute("1x", "ban", "35541360");
+i.addBannerAttribute("1x", "serverTime", 1573298370018);
+i.addBannerAttribute("1x", "bannerVersion", "513");
+i.addBannerAttribute("1x", "csImpressionUrl", "https://track.adform.net/csimpr/?bn=33836512&csi=ww3zoSaYGcs7f6rgD1BVxV1gMts0qIP2Xm4EMpR60YCJrkyBY3q2nVPROPh1aj800");
+i.addBannerAttribute("1x", "eData", "ww3zoSaYGcsW5sdR7PCkwgNhTi7kgObe0");
+i.addBannerAttribute("1x", "uData", "v9QrX-vSwDc1");
+i.addBannerAttribute("1x", "trackingSetupId", "310670");
+i.addBannerAttribute("1x", "bnpl", "5749799");
+i.addBannerAttribute("1x", "sendUnloadData", 1);
+i.addBannerAttribute("1x", "unloadScriptVersion", 13);
+i.addBannerAttribute("1x", "isDSPTag", true);
+i.addBannerAttribute("1x", "isEventsEnabled", 1);
+i.addBannerAttribute("1x", "rtbInventorySourceId", "346");
+i.addBannerAttribute("1x", "rtbReqId", "19631d75-3f06-4a4e-9291-d2650ed98b3e_1");
+i.addBannerAttribute("1x", "rtbdata", "yxKBYsat1BBGCP6qmFL91NV9OFjhTiz1QncQLvhee4lEvGIUeR9A-qNjwFtI4RdA6gplfHV0khTCvzPP1CVJLlEi-y8fkiOQhresSUXf7kWbgF64uEVBXD4AR228dvPrrMpmLKLAKEwx33k9odRyGDdToxohfQ2wVrycI3RJmFgFlKTypxEwObTs1gJWpJbb_f2fpQE5V969Dxz6rvBKow1hdFrFirbOsya-emB8Ocer-oxEWmDTtVI6ukqcMwfhRp9jrOuvYPn2PgDQOerdborM2VdeVBvpdoSUc_fetYsKZSXAWn7ch_a_CKqa_pobk0goMG-VEvRgkqO6jvLnrI7JAHRPuuLEqgmrnQ15W1qHKZafMlgW6HVESDmRj-ZQy7REKk5YlVJGsDQ1QHhJI3lvoUmdvZfKIVoDp2YrExt_9HBhyRVL2KSqXz8M3rkXywBime5tCWi7lLIwKAfE1qgWVWV50RR9lKas-sC4kDhjSD3vRL6CyR8En_jhStxAHsDw7S2WlD76PjXYzENA4tXpdWmCrNCQjxeCCq03BQ0NPWNqz8pFNkL9FdGBCra14UFuhV40q881");
+i.addBannerAttribute("1x", "rtbwp", "AAABbk_jeInCKvw4MZSyN78hfgpf1K0KC3m6Rw-VLSUd1s7CnxwhUmxlkyx12GZM81epO-d0");
+i.setBannerRegisteredStatus("1x");
+}catch(e){}
+})();
+
+
+
+<!--
+var ADFtagid1188948162 = (typeof(ADFafbanID)!="undefined") ? ADFafbanID : 0;
+var ADFclickTagString1188948162 = (typeof(ADF_clickTag)!="undefined") ? escape(ADF_clickTag) : escape('https://track.adform.net/C/?bn='+ADFtagid1188948162);
+var ADFclickTagParameters1188948162 = (typeof(ADF_clickTagPars)!="undefined") ? escape(ADF_clickTagPars) : '';
+var ADFclickEventString = (typeof(ADF_ClickEvent) != "undefined") ? escape(ADF_ClickEvent) : escape('https://track.adform.net/C/?bn='+ADFtagid1188948162+';bsqno=1;li=1;cset=');
+var FlashObjectID=(typeof(FlashObjectID)!="undefined") ? FlashObjectID : 'adftest';
+var ADFDomain=(typeof(ADFDomain)!="undefined") ? ADFDomain : '';
+var ADFDomainCDN=(typeof(ADFDomainCDN)!="undefined") ? ADFDomainCDN : '';
+var ADFVideoCDN=(typeof(ADFVideoCDN)!="undefined") ? ADFVideoCDN : '';
+var ADFClientSiteId=(typeof(ADFClientSiteId)!="undefined") ? ADFClientSiteId : '';
+var ADFTemplateVersion=(typeof(ADFTemplateVersion)!="undefined") ? ADFTemplateVersion : '1188948162';
+var ADFTemplateId=(typeof(ADFTemplateId)!="undefined") ? ADFTemplateId : '';
+var ADFGroupId=(typeof(ADFGroupId)!="undefined") ? ADFGroupId : '';
+var ADFGeoData=(typeof ADFGeoData != "undefined" || ADFGeoData != null) ? ADFGeoData : '0;0;0';
+var ADFBanVer=(typeof(ADFBanVer)!="undefined") ? ADFBanVer : '1188948162';
+var ADFBanVerBak=(typeof(ADFBanVerBak)!="undefined") ? ADFBanVerBak : '1188948162';
+var ADFtagID=(typeof(ADFtagID)!="undefined") ? ADFtagID : '1x';
+if (typeof(ADFbu)=="undefined") ADFbu=false;
+
+var ADFcmpgnID = (typeof(ADFcmpgnID) != "undefined") ? ADFcmpgnID : '0';
+var ADFmembID = (typeof(ADFmembID) != "undefined") ? ADFmembID : '0';
+var ADFbanID = (typeof(ADFbanID) != "undefined") ? ADFbanID : '0';
+var ADFbanPlacID = (typeof(ADFbanPlacID) != "undefined") ? ADFbanPlacID : '0';
+var ADFUnloadID = (typeof(ADFUnloadID) != "undefined") ? ADFUnloadID : '0';
+
+
+var ADFclickTagVariables1188948162 = 'clickTAG='+ADFclickTagString1188948162+';C=1'+ADFclickTagParameters1188948162+'&backupClickUrl='+ADFclickTagString1188948162+';C=2'+ADFclickTagParameters1188948162+'&clickTAG2='+ADFclickTagString1188948162+';C=3'+ADFclickTagParameters1188948162+'';
+if (ADFMediaURLs) ADFclickTagVariables1188948162 = ADFMediaURLs;
+
+
+
+if(typeof Adform == "undefined") {var Adform = {};};
+Adform.BannerData                    = {};
+Adform.Data                          = Adform.BannerData;
+Adform.RMBData                       = Adform.BannerData;
+Adform.RMBData.type                  = 'standard';
+Adform.RMBData.subtype               = 'rmb';
+Adform.BannerData.timestamp          = '201911041534448912'; // std @timestamp@ rev. @version@
+Adform.BannerData.ADFFlash           =  ADFDomain +'Elements/Files/27918/6872594/main/6872594.js?ADFassetID=6872594&bv='+ADFBanVer;
+Adform.BannerData.ADFBuckup          =  ADFDomain +'Elements/Files/27918/6872595.jpg?bv='+ADFBanVerBak;
+
+Adform.BannerData.ADFBuckupClickURL  =  ADF_clickTag+';C=2';
+Adform.BannerData.width              = "728";
+Adform.BannerData.height             = "90";
+Adform.BannerData.ADFid              = ADFtagID;
+Adform.BannerData.ADFban             = (typeof(ADFafbanID)!="undefined") ? ADFafbanID : 0;
+Adform.BannerData.wmode              = "opaque";
+Adform.RMBData.landingPageTarget     = "_blank";
+Adform.BannerData.quality            = "Autohigh";
+Adform.BannerData.bannerAlign        = "";
+Adform.BannerData.clicktags          = 'cid='+ADFClientSiteId+'&geo='+ADFGeoData+'&gid='+ADFGroupId+'&tv='+ADFTemplateVersion+'&tid='+ADFTemplateId+'&domain='+ ADFDomain +'&bv='+ADFBanVer+'&ADFid='+ADFtagID+'&'+ADFclickTagVariables1188948162+'';
+Adform.BannerData.clicktags         += '&ADFcmpgnID='+ADFcmpgnID+'&ADFmembID='+ADFmembID+'&ADFbanID='+ADFbanID+'&ADFbanPlacID='+ADFbanPlacID+'&unloadID='+ADFUnloadID;
+Adform.BannerData.clicktags         += "&bn="+ADFtagid1188948162;
+Adform.BannerData.clicktags         += "&wmode=opaque";
+Adform.BannerData.clicktags         += "&evtBaseLink="+ADFclickEventString;
+
+Adform.BannerData.clicktags         += "&settingsXML=" +  ADFDomain + ADFbanID  + "/settings.xml?bv="+ADFBanVer;
+Adform.BannerData.clicktags         += "&ADFDomain=" + ( ADFDomain ).replace(/\/$/, "");
+
+
+
+
+
+Adform.RMBData.css =  ADFDomain  + "scripts/assets/css/Adform.RMB.css?bv="+ADFBanVer;
+
+
+
+
+
+
+
+Adform.BannerList = Adform.BannerList || [];
+Adform.BannerList.push(Adform.BannerData);
+
+if (!Adform.RMB || !Adform.RMB.AdConstructor) {
+	// Load constructor script
+	document.write('<scr' + 'ipt type="text/javascript" src="'+ ADFDomain +'scripts/rmb/Adform.RMB.js?bv='+ Adform.cache +'"></scr' + 'ipt>');
+} else {
+	// Run loaded constructor
+	Adform.RMB.AdConstructor.build();
+}
+//-->
+try{var i=window.Adform.ADFBannerUtils.getInstance();i.firePixel('https://ad.doubleclick.net/ddm/trackimp/N9439.2100152SMGPROGRAMMATIC/B22932751.257225907;dc_trk_aid=452945642;dc_trk_cid=118126643;ord=[timestamp]?rnd=94836');}catch(e){}

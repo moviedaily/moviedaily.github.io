@@ -1,0 +1,38 @@
+
+<!-- saved from url=(0014)about:internet -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body marginwidth="0" marginheight="0"><img src="./sync" style="display:none" width="0" height="0" alt="" border="0"><img src="./ixssl" style="display:none" width="0" height="0" alt="" border="0"><img src="./casale" style="display:none" width="0" height="0" alt="" border="0"><img src="./current" style="display:none" width="0" height="0" alt="" border="0"><img src="./index" style="display:none" width="0" height="0" alt="" border="0"><img src="./indexexchange" style="display:none" width="0" height="0" alt="" border="0"><script type="text/javascript">
+    (function() {
+      
+         
+    var reqPrime = new XMLHttpRequest();
+    reqPrime.open('GET', 'https://as-sec.casalemedia.com/vital?cb=0444777004', true);
+         
+    reqPrime.onreadystatechange = function() {
+        if (reqPrime.readyState === 4 && reqPrime.status === 200) {
+  
+            var startTime = Date.now();
+  
+            var reqTimed = new XMLHttpRequest();
+  
+            reqTimed.open('GET', 'https://as-sec.casalemedia.com/vital?cb=0444777004', true);
+  
+            reqTimed.onreadystatechange = function() {
+                if (reqTimed.readyState === 4 && reqTimed.status === 200) {
+  
+                    var endTime = Date.now();
+                    var deltaT = endTime - startTime;
+              
+                    var reqStats = new XMLHttpRequest();
+                    reqStats.open('GET', 'https://as-sec.casalemedia.com/vital?s=352461&type=aud&l=' + deltaT + '&cb=0444777004' + '&m=30fd1d68e7ceeae33fdb47c089fd8b56' + '&t=1573298352', true);
+                    reqStats.send();
+  
+                }
+            }
+            reqTimed.send();
+        }
+    };
+         
+    reqPrime.send();
+    })();
+    </script>
+    </body></html>
